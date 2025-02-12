@@ -1,5 +1,5 @@
 # Java-Fx-based-MCQs-Quiz-System-with-Database
-#Features:
+# Features:
 
 User-friendly quiz interface
 
@@ -11,7 +11,7 @@ Support for external question banks
 
 Java-based backend with a structured architecture
 
-#Technologies Used:
+# Technologies Used:
 
 Java (JDK 8 or higher)
 
@@ -31,7 +31,7 @@ Add the necessary libraries from the lib/ and jars/ folders to the classpath.
 
 Compile and run the project.
 
-#DatabaseCode:
+# DatabaseCode:
 Create Table Users (
    userID int Identity(1,1) Primary Key,  
    username VARCHAR(255) Not Null,         -- User's username
